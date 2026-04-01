@@ -65,7 +65,7 @@ keywords = [
     "BDD", "behavior-driven-development", "bdd-framework",
     "behave", "gherkin", "cucumber-like"
 ]
-license = "BSD-2-Clause"
+license = {text = "BSD-2-Clause"}
 license-files = ["LICENSE"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
